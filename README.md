@@ -29,7 +29,7 @@ Kuinka hain JSON-dataa mock-API:sta JavaScriptin avulla ja näytin sen verkkosiv
 ### 7. Kaikkien elementtien integrointi verkkosivulle
 - Kirjoitin JavaScript-koodin, joka yhdistää kaikki yllä olevat toiminnot, jotta JSON-data haetaan ja näytetään oikein, mukaan lukien kurssitiedot, sisältö ja tekniikkalinkit.
 
-## Kuinka suorittaa projekti
+## Käyttö
 1. Avaa `index.html`-tiedosto verkkoselaimessa.
 2. Sivu hakee automaattisesti JSON-datan mock-API:sta.
 3. Haettu data, mukaan lukien kurssitiedot, sisältö ja tekniikkalinkit, näytetään verkkosivulla.
