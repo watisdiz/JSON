@@ -13,7 +13,7 @@ Kuinka hain JSON-dataa mock-API:sta JavaScriptin avulla ja näytin sen verkkosiv
   - Toteutin virheenkäsittelyn, jotta käyttäjälle näytetään viesti, jos datan hakeminen epäonnistuu.
 
 ### 3. JSON-datan validointi
-- Käytin[JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)-työkalua JSON-datan validointiin. Tarkistin JSON-datan virheiden välttämiseksi.
+- Käytin [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)-työkalua JSON-datan validointiin. Tarkistin JSON-datan virheiden välttämiseksi.
 
 ### 4. Kurssitietojen näyttäminen
 - Näytin JSON-datasta haetut kurssitiedot verkkosivulla `p`-elementin avulla, käyttäen vahvennettua muotoilua.
