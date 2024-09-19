@@ -1,5 +1,5 @@
 // Fetch JSON data Mocky URL
-fetch('https://run.mocky.io/v3/a6e8c032-c997-4bcf-8e2a-8b40ff4e8ea2')
+fetch('https://run.mocky.io/v3/6795ed33-8036-439c-8d3e-04719b3f5c99')
     .then(function (response) {
         return response.json(); // Muunnetaan vastaus JSON-muotoon
     })
