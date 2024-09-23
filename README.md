@@ -8,7 +8,7 @@ Kuinka hain JSON-dataa mock-API:sta JavaScriptin avulla ja näytin sen verkkosiv
 - Loin `index.html`-nimisen HTML-tiedoston, jossa on `div`-elementti ID:llä `vastaus` datan näyttämistä varten. HTML-tiedostoon lisäsin myös linkin ulkoiseen JavaScript-tiedostoon (`oma.js`).
 
 ### 2. JSON-datan haku Mock API:sta
-  - Käytin Fetch API:ta hakemaan dataa mock-API-osoitteesta: [Mocky JSON-tiedosto](https://run.mocky.io/v3/6795ed33-8036-439c-8d3e-04719b3f5c99).
+  - Käytin Fetch API:ta hakemaan dataa GitHub Pages sivulta: [JSON-tiedosto](https://watisdiz.github.io/JSON/data.json).
   - JSON-vastauksen jälkeen kutsuin funktiota, joka käsittelee datan ja näyttää sen verkkosivulla.
   - Toteutin virheenkäsittelyn, jotta käyttäjälle näytetään viesti, jos datan hakeminen epäonnistuu.
 
